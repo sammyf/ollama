@@ -369,7 +369,8 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [Minima](https://github.com/dmayboroda/minima) (RAG with on-premises or fully local workflow)
 - [aidful-ollama-model-delete](https://github.com/AidfulAI/aidful-ollama-model-delete) (User interface for simplified model cleanup)
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) (An AI-powered search engine & an open-source alternative to Perplexity AI)
-
+- [Ollimca]([https://github.com/](https://github.com/sammyf/ollimca) (Vision model powered analysis and fast subsequent semantic search of big batches of photos)
+   
 ### Cloud
 
 - [Google Cloud](https://cloud.google.com/run/docs/tutorials/gpu-gemma2-with-ollama)
